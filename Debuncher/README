@@ -11,7 +11,7 @@ The debunching>
 
 in this case the for the exxtraction time we should put injection time ~10us and for the extraction time we should put the trapping time as in this case the ions are extracted during the trapping 
 
-Prerequisite:
+Prerequisites:
 ROOT data analysis framework (https://root.cern.ch/)
 FASTER analysis frame work (http://faster.in2p3.fr/index.php/download/category/2-software#)
 
